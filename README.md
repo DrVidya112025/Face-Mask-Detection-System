@@ -29,14 +29,6 @@ NumPy
 
 Haar Cascade Classifier (for face detection)
 
-🖼️ Screenshots
-
-
-
-
-
-
-
 🔧 Prerequisites
 All the dependencies and required libraries are included in the file requirements.txt
 
@@ -47,7 +39,7 @@ cd face-mask-detection
 pip install -r requirements.txt
 
 ▶️ Run the Application
-
+python frontend.py
 💡 Steps to follow:
 1.Install all the necessary libraries such as pillow,scipy and tensor flow.
 2.Create a train.py file in the virtual environment of myprojects folder under the script folder.
@@ -61,12 +53,17 @@ pip install -r requirements.txt
 🗂️ File Structure
 
 face-mask-detection/
-│
+
 ├── dataset/              # Dataset (images with mask / without mask)
+
 ├── model/                # Saved trained model
+
 ├── detect_mask_video.py  # Main script for webcam detection
+
 ├── train_model.py        # Script to train the model
+
 ├── requirements.txt
+
 └── README.md
 
 🔑 Results
