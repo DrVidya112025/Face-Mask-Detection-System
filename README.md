@@ -83,4 +83,3 @@ OpenCV Documentation
 
 TensorFlow Keras
 
-Dataset from Kaggle
