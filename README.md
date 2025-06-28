@@ -12,9 +12,9 @@ Uses deep learning algorithm such as CNN for accurate detection
 
 📁 Dataset
 This dataset consists of  Train and Test of 4095 images belonging to two classes :
-
-with_mask: 2165 images
-without_mask: 1930 images
+Train
+with_mask: 45 images
+without_mask: 35 images
 The images used were real images of faces wearing masks.
 
 🧰 Technologies Used
